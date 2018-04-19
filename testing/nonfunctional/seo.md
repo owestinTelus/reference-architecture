@@ -254,7 +254,7 @@ Ensure your paginated content ie "load more" is not hidden from bots. Cf. [Googl
 
 ## How
 
-Incorporate [Telus Lighthouse](https://github.com/telusdigital/telus-lighthouse) in your application. Telus Lighthouse will validate your pages and ensure compliance with the SEO standards above. Easy :)
+Incorporate [TELUS Lighthouse](https://github.com/telusdigital/telus-lighthouse) in your application. TELUS Lighthouse will validate your pages and ensure compliance with the SEO standards above. Easy :)
 
 ## Who
 
