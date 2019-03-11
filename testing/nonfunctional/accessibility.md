@@ -1,4 +1,4 @@
-# Accessibility testing
+# Accessibility testing - OUT DATED Accessibility is more than nonfunctional requirement
 
 ## Why
 
